@@ -1,5 +1,11 @@
 # Data-Engineering-and-Analytics-Platform
 
+*Modern analytics web application with governance-ready data views; React, TypeScript and shadcn/ui.*
+
+![category](https://img.shields.io/badge/category-data-engineering-10B981?style=flat-square) ![language](https://img.shields.io/badge/language-TypeScript-2563EB?style=flat-square) ![maintenance](https://img.shields.io/badge/maintenance-dormant-D97706?style=flat-square) ![repo](https://img.shields.io/badge/repo-data--engineering--analytics--platform-111827?style=flat-square)
+
+---
+
 A modern, responsive web application built with React and TypeScript, featuring a beautiful UI powered by shadcn-ui and Tailwind CSS. This project serves as a command center for managing and visualizing data insights through an intuitive interface.
 
 ## 🚀 Features
@@ -106,3 +112,7 @@ For detailed documentation about specific features and components, please refer 
 ---
 
 Made with ❤️ by [Your Team/Organization Name]
+
+## Contribution and license
+
+Issues and pull requests are welcome — please open an issue describing the proposed change before submitting substantive work. No license file is present; the work remains under the author's default copyright. Contact the owner for reuse terms.
